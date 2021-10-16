@@ -1,4 +1,6 @@
-The data obtained via webhook is stored in the mongodb database.
+The data obtained via emqx_webhook is stored in the mongodb database.
+
+emqx：4.3.x
 
 language：python3
 
