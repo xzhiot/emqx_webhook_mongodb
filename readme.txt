@@ -1,1 +1,1 @@
-The data obtained via webhook is stored in the mongodb database
+The data obtained via webhook is stored in the mongodb database.
